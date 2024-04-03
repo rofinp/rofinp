@@ -72,8 +72,8 @@
   <h3>「🔥 Streak & Statistic Stats 🔥」</h3>
 
   <p>
-    <img height="192px" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofinp&langs_count=8&theme=vue" alt=rofinp />
-    <img height="192px" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rofinp&theme=vue" alt="rofinp" />
+    <img width="46.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofinp&langs_count=8&theme=vue" alt=rofinp />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rofinp&theme=vue" alt="rofinp" />
   </p>
 </div>
 
