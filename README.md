@@ -33,9 +33,9 @@
 
 <!-- About Me Section -->
 <div>
-  <h3 align="center">「 About Me 」</h3>
+  <h3 align="center">「🧐 About Me 🧐」</h3>
   <p align="justify">
-    I am currently and will continue to learn to become a reliable Full Stack Web Developer that many people can depend on. I enjoy learning and exploring new things, and currently, I am actively learning programming on platforms such as <a href="https://www.dicoding.com/users/rofi-nugraha">Dicoding</a>, <a href="https://www.freecodecamp.org/rofi_nugraha">freeCodeCamp</a>, <a href="https://www.udemy.com/">Udemy</a> and <a href="https://www.programmerzamannow.com/">Programmer Zaman Now</a>. I dream and aspire to contribute to advancing technology development in my country, Indonesia, and in the world.
+    I am currently and will continue to learn to become a reliable Full Stack Web Developer that many people can depend on. I enjoy learning and exploring new things, and currently, I am actively learning programming on platforms such as <a href="https://www.dicoding.com/users/rofi-nugraha">Dicoding</a>, <a href="https://www.freecodecamp.org/rofi_nugraha">freeCodeCamp</a>, <a href="https://www.packtpub.com/">Packt</a>, <a href="https://www.udemy.com/">Udemy</a> and <a href="https://www.programmerzamannow.com/">Programmer Zaman Now</a>. I dream and aspire to contribute to advancing technology development in my country, Indonesia, and in the world.
   </p>
   <p>
     🌱 I’m currently learning <b>DevOps, Golang, NestJs & ReactJs.</b><br>💬 Ask me about <b>PC building & Web Development.</b><br>📫 How to reach me <a href="https://mailto:rofinugraha.dev@gmail.com/">click here</a>.
@@ -46,7 +46,7 @@
 
 <!-- Tech Stack Section -->
 <div>
-  <h3 align="center">「 Tech Stacks 」</h3>
+  <h3 align="center">「🛠️ Tech Stacks 🛠️」</h3>
   <!-- Stack Icons -->
   <div align="center">
     <p>
@@ -59,7 +59,7 @@
   <div align="center">
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,ubuntu,windows&theme=light" />
+        <img src="https://skillicons.dev/icons?i=vscode,vim,ubuntu,windows&theme=light" />
       </a>
     </p>
   </div>
@@ -81,7 +81,7 @@
 
 <!-- Support Me Section -->
 <div align="center">
-  <h3>「 Support Me 」</h3>
+  <h3>「☕ Support Me ☕」</h3>
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rofinugraha)
 [![Ko-Fi](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rofinugraha)
