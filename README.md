@@ -15,7 +15,7 @@
 <!-- Bio -->
 <p align="center"> 
   <samp>
-    「 A passionate Full Stack Web Developer from <b>Indonesia</b> 」
+    「 A passionate Software/Web Developer from <b>Indonesia</b> 」
   </samp>
 </p>
 
@@ -35,10 +35,7 @@
 <div>
   <h3 align="center">「🧐 About Me 🧐」</h3>
   <p align="justify">
-    I am currently and will continue to learn to become a reliable Full Stack Web Developer that many people can depend on. I enjoy learning and exploring new things, and currently, I am actively learning programming on platforms such as <a href="https://www.dicoding.com/users/rofi-nugraha">Dicoding</a>, <a href="https://www.freecodecamp.org/rofi_nugraha">freeCodeCamp</a>, <a href="https://www.packtpub.com/">Packt</a>, <a href="https://www.udemy.com/">Udemy</a> and <a href="https://www.programmerzamannow.com/">Programmer Zaman Now</a>. I dream and aspire to contribute to advancing technology development in my country, Indonesia, and in the world.
-  </p>
-  <p>
-    🌱 I’m currently learning <b>DevOps, Golang, NestJs & ReactJs.</b><br>💬 Ask me about <b>PC building & Web Development.</b><br>📫 How to reach me <a href="https://mailto:rofinugraha.dev@gmail.com/">click here</a>.
+    I am currently and will continue to learn to become a reliable Developer that many people can depend on. I enjoy learning and exploring new things, and currently, I am actively learning programming on platforms such as <a href="https://www.dicoding.com/users/rofi-nugraha">Dicoding</a>, <a href="https://www.freecodecamp.org/rofi_nugraha">freeCodeCamp</a>, <a href="https://www.packtpub.com/">Packt</a>, <a href="https://www.udemy.com/">Udemy</a> and <a href="https://www.boot.dev/">boot.dev</a>. I dream and aspire to contribute to advancing technology development in my country, Indonesia, and in the world.
   </p>
 </div>
 
